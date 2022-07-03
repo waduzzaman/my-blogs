@@ -1,0 +1,27 @@
+.blogs {
+    background-color: aqua;
+    border: 2px solid red;
+    border-radius: 10px;
+    margin: 40px 10px;
+    padding: 10px, 15px, 10px, 15px;
+    text-align: center;
+}
+
+.blog-title {
+    text-align: center;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.blog p {
+    color: red;
+    text-align: justify;
+}
+
+.author {
+    font-style: italic;
+}
+
+.author-name {
+    color: blue;
+}
